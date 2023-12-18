@@ -9,4 +9,5 @@
 uniploxy/uniploxy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![20230923_153213](https://github.com/uniploxy/uniploxy/assets/154221513/c68e5bf6-f3ee-4ed4-b9d3-7386b7afa380)
+
+![image](https://github.com/uniploxy/uniploxy/assets/154221513/d96e2703-db5d-4ce4-b170-3eea6a71eac0)
